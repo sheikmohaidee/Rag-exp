@@ -1,0 +1,5 @@
+# Add these to the existing project environment; do not replace your full requirements file.
+streamlit
+pypdf
+fastapi
+uvicorn

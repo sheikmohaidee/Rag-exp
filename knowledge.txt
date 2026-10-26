@@ -1,0 +1,15 @@
+Python is a high-level programming language known for its simple and readable syntax.
+
+Python is commonly used for web development, data science, automation, machine learning, and artificial intelligence.
+
+A variable is a name that refers to a value stored in a program.
+
+A list in Python is an ordered collection that can contain multiple items.
+
+A dictionary in Python stores data as key-value pairs. Each key is used to access its corresponding value.
+
+A function is a reusable block of code designed to perform a particular task.
+
+Python uses indentation to define blocks of code instead of curly braces.
+
+Python was created by Guido van Rossum and its first public release was in 1991.
